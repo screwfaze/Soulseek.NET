@@ -16,7 +16,7 @@ namespace Soulseek.NET.Messaging
     using System.IO;
     using System.Linq;
     using System.Text;
-    using zlib;
+    using ComponentAce.Compression.Libs.zlib;
 
     /// <summary>
     ///     Reads data from a Message payload.
